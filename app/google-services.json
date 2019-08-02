@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "834363992403",
+    "firebase_url": "https://eatza-becb4.firebaseio.com",
+    "project_id": "eatza-becb4",
+    "storage_bucket": "eatza-becb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834363992403:android:86e8e863a4b64186",
+        "android_client_info": {
+          "package_name": "com.example.eatza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834363992403-po2pojhi9i378pp8n9l1sn6f0s8kk1f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eatza",
+            "certificate_hash": "848262cf3b4ecb729c890e67ff6cd0f16d9f5e42"
+          }
+        },
+        {
+          "client_id": "834363992403-170a4u20b6b5uok7p5den86lpe862c6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpb8rL6G6NpyzfQvB1JTIml-JI6y9GOCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834363992403-170a4u20b6b5uok7p5den86lpe862c6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
